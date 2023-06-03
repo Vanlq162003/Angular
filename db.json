@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "le2",
+      "image": "https://picsum.photos/200/300",
+      "description": "16/08/2003",
+      "price": 1000,
+      "category": "laptop"
+    },
+    {
+      "id": 2,
+      "name": "le",
+      "image": "https://picsum.photos/200/300",
+      "description": "16/08/2003",
+      "price": 1000,
+      "category": "laptop"
+    },
+    {
+      "name": "san pham 1",
+      "price": 4,
+      "description": "asdhahdsa",
+      "image": "ehhehe",
+      "category": "hehehe",
+      "id": 3
+    },
+    {
+      "name": "le3",
+      "image": "https://picsum.photos/200/300",
+      "description": "16/08/2003",
+      "price": 1000,
+      "category": "laptop",
+      "id": 4
+    }
+  ],
+  "users": [
+    
+    
+    {
+      "email": "vanvan@gmail.com",
+      "password": "$2a$10$trIGd7tJPRsC/giYncjT2uPhAjsoNuLpqUnCYt.Rv193wn0tAv5d.",
+      "name": "van",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "email": "vanvan1@gmail.com",
+      "password": "$2a$10$ZT0mO4kp1PzUTppQBQCmFuIIIb5jglrejE1H1H/HphzcKPwsGLdgq",
+      "name": "asdasdsad",
+      "role": "user",
+      "id": 7
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
