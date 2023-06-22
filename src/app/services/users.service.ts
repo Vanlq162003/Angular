@@ -13,5 +13,9 @@ export class UsersService {
     const newUser = {...user , role : "user" , confirmpassword : undefined}
     return this.http.post(`http://localhost:3000/signup` , newUser)
   }
+  SignIn(user:User){
+    
+    return this.http.post(`http://localhost:3000/signin` , user)
+  }
 
 }

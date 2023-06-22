@@ -34,8 +34,6 @@
     }
   ],
   "users": [
-    
-    
     {
       "email": "vanvan@gmail.com",
       "password": "$2a$10$trIGd7tJPRsC/giYncjT2uPhAjsoNuLpqUnCYt.Rv193wn0tAv5d.",
@@ -49,6 +47,13 @@
       "name": "asdasdsad",
       "role": "user",
       "id": 7
+    },
+    {
+      "email": "van11@gmail.com",
+      "password": "$2a$10$/XyP/ZKd2Dq/0ApsZO9aWe6vdmZY4c6Ww4GVAgrI4RMVX4budW5fe",
+      "name": "van handsome",
+      "role": "user",
+      "id": 8
     }
   ],
   "profile": {

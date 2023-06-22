@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent {
-
+  checkUserExistsInLocalStorage(): boolean {
+    const user = localStorage.getItem('user');
+    return !!user; // Trả về true nếu user tồn tại, ngược lại trả về false
+  }
+  Logout(){
+    localStorage.removeItem('user')
+  }
 }
