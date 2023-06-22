@@ -31,6 +31,14 @@
       "price": 1000,
       "category": "laptop",
       "id": 4
+    },
+    {
+      "name": "san pham vercel",
+      "price": 0,
+      "description": "tesst",
+      "image": "https://picsum.photos/200/300",
+      "category": "laptop",
+      "id": 5
     }
   ],
   "users": [
